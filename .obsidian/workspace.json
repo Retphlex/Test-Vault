@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4dfd4fff40f519ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,9 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff6f5c1da356f888",
+  "active": "4dfd4fff40f519ac",
   "lastOpenFiles": [
     "Dashboard.md",
-    "Test Node.md"
+    "Test Node.md",
+    "Another Node.md"
   ]
 }

@@ -1,1 +1,1 @@
-[[Test Node]]
+[[Test Node]][[Another Node]]
